@@ -1,0 +1,423 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .padn {
+        padding-top: 170px;
+    }
+    .hero-area {
+        height: 656px;
+        padding-top: 200px;
+    }
+    .neli-area {
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+    .neli-title h3 {
+        margin: 0;
+        font-size: 41px;
+        line-height: 42px;
+    }
+    .load-content h4 {
+        font-size: 34px;
+        line-height: 53px;
+    }
+    .load-content p {
+        margin: 0;
+        font-size: 24px;
+        line-height: 35px;
+        height: 275px;
+    }
+
+
+
+
+
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+    .padn {
+        padding-top: 121px;
+    }
+    .hero-area {
+        height: 556px;
+        padding-top: 170px;
+    }
+    .neli-area {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    .neli-title h3 {
+        margin: 0;
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .load-content h4 {
+        font-size: 28px;
+        line-height: 43px;
+    }
+    .load-content p {
+        margin: 0;
+        font-size: 21px;
+        line-height: 27px;
+        height: auto;
+    }
+    .hero-content h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .header-menu ul li a {
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .neli-wrap {
+        padding: 30px;
+        margin-bottom: 38px;
+    }
+    .load-icn a {
+        width: 80px;
+        height: 80px;
+        font-size: 30px;
+    }
+    .load-icn {
+        top: -38px;
+    }
+    .load-box {
+        border-radius: 10px;
+        padding-left: 28px;
+        padding-bottom: 30px;
+        padding-top: 65px;
+        padding-right: 20px;
+        margin-bottom: 60px;
+        height: 370px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .padn {
+        padding-top: 121px;
+    }
+    .hero-area {
+        height: 485px;
+        padding-top: 120px;
+    }
+    .neli-area {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    
+.s1 {
+  display: none;
+}
+.s2 {
+  display: none;
+}
+    .neli-title h3 {
+        margin: 0;
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .load-content h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .load-content p {
+        margin: 0;
+        font-size: 19px;
+        line-height: 25px;
+        height: auto;
+    }
+    .hero-content h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .header-menu ul li a {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .neli-wrap {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .load-icn a {
+        width: 50px;
+        height: 50px;
+        font-size: 22px;
+    }
+    .load-icn {
+        top: -23px;
+    }
+    .load-box {
+        border-radius: 10px;
+        padding-left: 28px;
+        padding-bottom: 30px;
+        padding-top: 65px;
+        padding-right: 20px;
+        margin-bottom: 60px;
+        height: 310px;
+    }
+    .header-top a img {
+        max-width: 23px;
+    }
+    .header-top a {
+        margin: 0 13px;
+    }
+    .header-top-area {
+        height: 60px;
+    }
+    .header-area {
+        padding-top: 32px;
+    }
+ 
+    .header-menu ul li {
+        margin-left: 34px;
+    }
+    .buy-wrap h5 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 4px;
+    }
+    .buy-wrap p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .hero-area::before {
+        height: 113px;
+    }
+    .neli-img {
+        margin-bottom: 6px;
+    }
+    .neli-content h5 {
+        font-size: 20px;
+        line-height: 38px;
+        margin-bottom: 12px;
+    }
+    .neli-content p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .neli-img img {
+        max-width: 33px;
+    }
+    .neli-title {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+    .load-content p span {
+        font-size: 10px;
+        line-height: 45px;
+    }
+    .footer-area {
+        padding: 30px 0;
+        background: #FF440B;
+    }
+    .hero-content a {
+        width: 283px;
+        height: 60px;
+        font-size: 20px;
+        line-height: 26px;
+        margin-top: 40px;
+    }
+
+
+
+
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+    .padn {
+        padding-top: 34px;
+    }
+    .hero-area {
+        height: auto;
+        padding-top: 120px;
+        padding-bottom: 24px;
+    }
+    .neli-area {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    
+.s1 {
+  display: none;
+}
+.s2 {
+  display: none;
+}
+    .neli-title h3 {
+        margin: 0;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .load-content h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .load-content p {
+        margin: 0;
+        font-size: 19px;
+        line-height: 25px;
+        height: auto;
+    }
+    .hero-content h3 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .header-menu ul li a {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .neli-wrap {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .load-icn a {
+        width: 50px;
+        height: 50px;
+        font-size: 22px;
+    }
+    .load-icn {
+        top: -23px;
+    }
+    .load-box {
+        border-radius: 10px;
+        padding-left: 28px;
+        padding-bottom: 30px;
+        padding-top: 65px;
+        padding-right: 20px;
+        margin-bottom: 34px;
+        height: 310px;
+    }
+    .header-top a img {
+        max-width: 23px;
+    }
+    .header-top a {
+        margin: 0 13px;
+    }
+    .header-top-area {
+        height: 60px;
+    }
+    .header-area {
+        padding-top: 20px;
+    }
+ .header-logo a img {
+	max-width: 166px;
+}
+    .header-menu ul li {
+        margin-left: 34px;
+    }
+    .buy-wrap h5 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 4px;
+    }
+    .buy-wrap p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .hero-area::before {
+        height: 113px;
+    }
+    .neli-img {
+        margin-bottom: 6px;
+    }
+    .neli-content h5 {
+        font-size: 20px;
+        line-height: 38px;
+        margin-bottom: 12px;
+    }
+    .neli-content p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .neli-img img {
+        max-width: 33px;
+    }
+    .neli-title {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+    .load-content p span {
+        font-size: 10px;
+        line-height: 45px;
+    }
+    .footer-area {
+        padding: 30px 0;
+        background: #FF440B;
+    }
+    .hero-content a {
+        width: 250px;
+        height: 48px;
+        font-size: 17px;
+        line-height: 26px;
+        margin-top: 26px;
+    }
+    .header-menu {
+        display: none;
+    }
+    .buy-wrap {
+        margin-bottom: 25px;
+    }
+    .neli-title.ti-2 {
+        margin-bottom: 40px;
+    }
+    .footer-top-content p {
+        font-size: 16px;
+        line-height: 17px;
+        margin-bottom: 14px;
+    }
+    .footer-icon a {
+        margin: 0 14px;
+    }
+    .bar {
+        display: block;
+    }
+    .offcanva.active {
+        left: 0;
+    }
+    .overlay.active {
+        left: 0;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
